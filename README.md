@@ -1,0 +1,1 @@
+# Linux-Basit-G-venlik-Duvar-
