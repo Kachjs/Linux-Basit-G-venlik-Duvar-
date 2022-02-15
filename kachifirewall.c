@@ -8,7 +8,7 @@
 #define sari  "\x1B[33m"
 #define normal "\033[0m"
 #define scriptversion "v1"
-#define coded "MR.HASAN"
+#define coded "Kachi"
 
 int main(){
 	baslangic();
