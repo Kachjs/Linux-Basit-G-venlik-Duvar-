@@ -1,1 +1,1 @@
-# Linux-Basit-G-venlik-Duvar-
+# Linux Sunucular İçin Basit Bir Firewall Sistemi
